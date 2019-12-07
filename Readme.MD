@@ -1,5 +1,5 @@
 <p align="center">
-<img src="image\OVM_LOGO.png" width="320" />
+<img src="images\OVM_LOGO.png" width="320" />
 </p>
 
 ---
