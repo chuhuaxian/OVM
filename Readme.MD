@@ -6,8 +6,6 @@
 
 # OVM-An Open Source Data Structure of Tetrahedral and Hexahedral Meshes
 
----
-
 ## Description
 
 OVM is a scalable data structure of tetrahedral and hexahedral meshes. It is a complete open-source data structure written in C++. The features of the data structure are following:
