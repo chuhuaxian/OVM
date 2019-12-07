@@ -4,7 +4,7 @@
 
 ---
 
-## OVM-An Open Source Data Structure of Tetrahedral and Hexahedral Meshes
+# OVM-An Open Source Data Structure of Tetrahedral and Hexahedral Meshes
 
 ---
 
