@@ -26,7 +26,7 @@ We welcome contributions from the open-source community.
 A comprehensive description of OVM can be found in OVM_paper.pdf. 
 
 ## Tutorials
-We provide several tutorials in the folder name ‘Examples’. Some volumetric mesh models are also provided in this folder.
+We provide several tutorials in the folder named ‘Examples’. Some volumetric mesh models are also provided in this folder.
 
 ## Documentation
 The latest Documentation can be found at: OVMDoc.zip  
