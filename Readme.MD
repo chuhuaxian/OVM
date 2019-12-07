@@ -34,6 +34,10 @@ The latest Documentation can be found at: OVMDoc.zip
 ## Mesh Viewer
 A mesh viewer is developed for viewing the tetrahedral and hexahedral mesh models. It is written in C++ and Qt5. Currently, it supports the files with the suffix of ‘.tet’, ‘.nmesh’(netgen mesh), ‘.hex’(hexahedral mesh), ‘.mesh’(MEdit), and ‘.ovm’(OVM mesh).  We give some models in the folder named 'Models'.
 
+<p align="center">
+<img src="images\MeshViewer.png" width="6000" />
+</p>
+
 ## Citation
 We would like you citing our paper if you use OVM:
 ```
