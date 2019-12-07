@@ -1,7 +1,10 @@
 <p align="center">
 <img src="OVM.png" width="320" />
 </p>
-### OVM-An Open Source Data Structure of Tetrahedral and Hexahedral Meshes
+
+---
+
+## OVM-An Open Source Data Structure of Tetrahedral and Hexahedral Meshes
 
 ---
 
