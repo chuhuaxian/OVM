@@ -16,7 +16,7 @@ OVM is a scalable data structure of tetrahedral and hexahedral meshes. It is a c
 - It provides local topological operations, such as face flip, split, and edge collapse operations for tetrahedral mesh.
 - It is easy to understand and use for non-experts and it can be very easy to be integrated into other application projects. It offers iterators to access the elements of the mesh like C++ STL and hides the complex underlying structure with simple APIs. 
 
-This project is created by [Chuhua Xian](http://chuhuaxian.net). Any one who has questions can write an email to:
+This project is created by [Chuhua Xian](http://chuhuaxian.net). Anyone who has questions can write an email to:
 
 chuhuaxian AT gmail.com
 
